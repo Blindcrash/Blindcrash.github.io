@@ -231,6 +231,8 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#d96b4da8', e
 }
 #about img {
 	float: right;
+	width: 400px;
+	height: 400px;
 }
 #about p {
 	margin-top: 20px;
