@@ -232,7 +232,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#d96b4da8', e
 #about img {
 	float: right;
 	width: 300px;
-	height: 250px;
+	height: 300px;
 }
 #about p {
 	margin-top: 20px;
@@ -475,7 +475,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#6b4da8', end
 #contact {
 	color: #fff;
 	background: url(../img/contact-bg.jpg) no-repeat center top;
-	background-color: #7bc3d1;
+	background-color: #283593;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	background-size: cover;
