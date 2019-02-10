@@ -624,7 +624,6 @@ header .intro-text {
 .resp-container {
 	    position: relative;
 	    overflow: hidden;
-	    padding-top: 100%;
 	}
 .resp-iframe {
 	    position: absolute;
